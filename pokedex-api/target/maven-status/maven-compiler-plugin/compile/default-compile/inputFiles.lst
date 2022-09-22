@@ -1,1 +1,9 @@
+/Users/neeleshrambally/Documents/Development/pokemon-services/pokedex-api/src/main/java/com/pokedex/entity/models/Pokemon.java
+/Users/neeleshrambally/Documents/Development/pokemon-services/pokedex-api/src/main/java/com/pokedex/entity/pokemon/PokemonBE.java
+/Users/neeleshrambally/Documents/Development/pokemon-services/pokedex-api/src/main/java/com/pokedex/entity/api/PokemonApi.java
 /Users/neeleshrambally/Documents/Development/pokemon-services/pokedex-api/src/main/java/com/pokedex/PokedexApiService.java
+/Users/neeleshrambally/Documents/Development/pokemon-services/pokedex-api/src/main/java/com/pokedex/entity/Db.java
+/Users/neeleshrambally/Documents/Development/pokemon-services/pokedex-api/src/main/java/com/pokedex/entity/pokemon/MoveBE.java
+/Users/neeleshrambally/Documents/Development/pokemon-services/pokedex-api/src/main/java/com/pokedex/entity/pokemon/TypeBE.java
+/Users/neeleshrambally/Documents/Development/pokemon-services/pokedex-api/src/main/java/com/pokedex/entity/pokemon/AbbilityBE.java
+/Users/neeleshrambally/Documents/Development/pokemon-services/pokedex-api/src/main/java/com/pokedex/entity/PokemonRepository.java

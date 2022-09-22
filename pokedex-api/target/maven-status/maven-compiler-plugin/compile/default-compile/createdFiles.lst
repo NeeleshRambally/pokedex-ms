@@ -1,1 +1,12 @@
+com/pokedex/entity/pokemon/AbbilityBE$AbbilityBEBuilder.class
+com/pokedex/entity/PokemonRepository.class
+com/pokedex/entity/pokemon/TypeBE$TypeBEBuilder.class
+com/pokedex/entity/pokemon/MoveBE$MoveBEBuilder.class
+com/pokedex/entity/pokemon/PokemonBE.class
+com/pokedex/entity/pokemon/AbbilityBE.class
+com/pokedex/entity/pokemon/TypeBE.class
+com/pokedex/entity/models/Pokemon.class
+com/pokedex/entity/pokemon/MoveBE.class
+com/pokedex/entity/Db.class
+com/pokedex/entity/api/PokemonApi.class
 com/pokedex/PokedexApiService.class
